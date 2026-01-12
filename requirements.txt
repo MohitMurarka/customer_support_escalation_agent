@@ -1,0 +1,17 @@
+# Core utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# UI
+streamlit>=1.27.0
+
+# LangGraph & LangChain
+langgraph>=0.1.15
+langchain>=0.1.0
+
+# LLM Providers (choose one)
+langchain-google-genai>=0.1.0
+# langchain-openai>=0.1.0
+
+# Optional helpers
+requests>=2.31.0
