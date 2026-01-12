@@ -151,8 +151,6 @@ Example:
 
 ---
 
----
-
 ## Author
 
 This project was created by **MR. MOHIT MURARKA**.  
